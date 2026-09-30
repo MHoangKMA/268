@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tanphat88.com	TRUE	/	FALSE	1999999999	_landing_page	%2Frobots.txt
+tanphat88.com	TRUE	/	FALSE	1999999999	cart	1ab1319abf97fb95a22c63e8fa9fe92b
+tanphat88.com	TRUE	/	FALSE	1999999999	cart_sig	1b4c1105d2c4096f6915c9244ab4ca2f
+tanphat88.com	TRUE	/	FALSE	1999999999	cart_currency	VND
+tanphat88.com	TRUE	/	FALSE	1999999999	samesite	lax
+
